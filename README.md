@@ -27,8 +27,3 @@ This project goes beyond the basics with **dark mode, filters, priorities, due d
 
 ---
 
-## 🚀 Getting Started  
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/your-username/advanced-todo-list.git
